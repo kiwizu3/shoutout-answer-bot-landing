@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif, ganganee;
+    font-weight: 400;
+    background: #fff;
+    /* background: #fcfaf5; */
+}
+
+.text-shoutout {
+    color: #00aeff;
+}
+.badge-shoutout{
+    color: #fff;
+    background-color: #00aeff;
+}
+.home-bg {
+    background-image: url(./images/home-bg.svg);
+    background-size: cover;
+}
+
+ul {
+  list-style-type: square; 
+  padding-inline-start: 1rem;
+}
+
+.card{
+    border: 0;
+    border-radius: 0;
+}
+
+.text-extra-small{
+    font-size: 80%;
+}
+
+.w-40{
+    width: 40%!important;
+}
+
+.back-cover-pmti {
+    background-color: #fafcf5 !important;
+    background-image: none;
+}
+
+hr{
+    border: 2px dashed #efefef;
+}

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: ganganee;
+    src: url('./fonts/un-ganganee.ttf');
+}
+
+body {
+    font-family: Poppins, sans-serif, ganganee;
+    font-weight: 400;
+    background: rgb(252, 250, 245);
+}
